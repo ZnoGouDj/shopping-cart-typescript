@@ -1,3 +1,3 @@
 import styled from 'styled-components';
 
-export const Weapper = styled.div``;
+export const Wrapper = styled.div``;
